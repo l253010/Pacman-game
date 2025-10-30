@@ -1,41 +1,54 @@
-# Prerequisites
-*.d
+# IDE files
+.vscode/
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Linker files
-*.ilk
-
-# Debugger Files
-*.pdb
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
+# Compiled executables
+bin/
 *.exe
 *.out
 *.app
 
-# debug information files
-*.dwo
+# Object files
+*.o
+*.obj
+*.ilk
+*.pdb
+
+# Precompiled headers
+*.pch
+*.gch
+
+# Debug files
+*.dll
+*.lib
+*.a
+*.dylib
+*.so
+
+# SFML libraries (don't include downloaded SFML)
+SFML-*/
+sfml/
+
+# Build directories
+build/
+Debug/
+Release/
+x64/
+x86/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Asset cache (if any)
+assets/cache/
+
