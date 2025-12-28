@@ -1,24 +1,23 @@
 
-# PF-BSE-1B SFML Project 🎮  
-## **Pac-Dora: The Blind**
+# PF-BSE-1B SFML Game Project 
+## **Pac-Dora: Star Catcher**
 
 A 2D Pac-Man–style game built in **C++ using SFML**, created as part of our Programming Fundamentals project.
 
-## 🕹️ Overview
-**Pac-Dora: The Blind** reimagines the classic Pac-Man gameplay with a unique twist — **limited visibility (fog)** and a **Dora-inspired world**.  
-Players must navigate through a dim maze, guided by faint visuals and familiar Dora sounds, collecting items while avoiding enemies hidden in the fog.  
+##  Overview
+**Pac-Dora: Star Catcher** reimagines the classic Pac-Man gameplay with a unique twist — a **Dora-inspired world**.  
+Players must navigate through a maze, with familiar Dora sounds, collecting stars while avoiding enemies; swipers.  
 
 The game blends classic arcade fun with atmospheric storytelling and sound design.
 
-## ✨ Features
-- Classic Pac-Man mechanics with a Dora twist  
-- **Fog effect** that limits the player’s visibility  
+##  Features
+- Classic Pac-Man mechanics with a Dora twist   
 - **Dora background music** and **voice dialogues**  
 - **Custom maze textures and background** themed around Dora  
 - Smooth keyboard movement and collision handling  
 - Dynamic score tracking  
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 1. Install **SFML** from [https://www.sfml-dev.org/download.php](https://www.sfml-dev.org/download.php)  
 2. Clone this repository:
    ```bash
@@ -34,28 +33,27 @@ The game blends classic arcade fun with atmospheric storytelling and sound desig
 
 
 
-🎮 Controls
+## Controls
 
 Arrow Keys / WASD — Move Dora
 
 Esc — Pause or exit the game
 
 
-👩‍💻 Group Members
+## Group Members
 
-25L_3010
+Haiba Naeem, Student of Software Engineering
 
-25L_3014
+Eman Fatima, Student of Software Engineering
 
-25L_3077
+Jannat Fatima, Student of Software Engineering
 
 
-🌟 Future Improvements
 
-Smarter ghost/enemy AI
+## Future Improvements
 
-Dynamic fog that shifts with movement
+Smarter ghost/enemy AI, a perfect Algorithm for Swiper/Ghosts movements
 
-Level progression with increased difficulty
+The swipers are glitching during the game, help devise ways for better and smooth swiper movements.
 
 Scoreboard and menu UI enhancements
