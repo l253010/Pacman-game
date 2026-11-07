@@ -9,16 +9,7 @@
   <img src="https://img.shields.io/badge/Course-PF--BSE--1B-26A69A?style=for-the-badge" />
 </p>
 
-<p align="center">
-<pre align="center">
-      _.-""""-._
-     /  _    _  \
-    |  (o)  (o)  |      Hola! I'm Dora!
-    |     \/     |      Help me catch the stars!
-     \  '----'  /
-      '-.____.-'   *
-</pre>
-</p>
+
 
 ---
 
